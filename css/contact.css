@@ -1,0 +1,24 @@
+table {
+  border-spacing: 10px 0px;
+}
+th {
+  height: 7rem;
+  width: 150px;
+  text-align: right;
+}
+input[type="email"], input[type="text"], textarea {
+  width: 480px;
+}
+.submit {
+  text-align: center
+}
+input[type="submit"] {
+  color: white;
+  background: #008B8B;
+  font-size: 3rem;
+  padding: 10px;
+  border: #008B8B;
+}
+.submit :hover{
+  opacity: 0.5;
+}
